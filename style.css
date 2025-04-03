@@ -48,6 +48,7 @@ margin-bottom: 20px;
     object-fit:cover ;
 }
 .card h2{
+    text-align: center;
 margin: 15px 0;
 }
 .card p{
