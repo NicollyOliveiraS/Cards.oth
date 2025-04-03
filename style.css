@@ -38,9 +38,10 @@ margin-bottom: 20px;
 
 }
 .card:hover{
-    border: 5px solid #356eb97f;
+   
     transform: scale(1.05);
     transition: 1s;
+    background-color: #747b91;
 }
 .card img{
     width: 270px;
